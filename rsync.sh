@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Jiaxing Tan wrote the program
-
 # The purpose of this program is to transfer and synchronize the eer images from the mounted device to the HPC workstation.
 
 # Change the following tow paths name before synchronizing!
